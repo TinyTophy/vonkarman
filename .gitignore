@@ -1,0 +1,7 @@
+/.vscode
+package-lock.json
+testobj.json
+testcube.obj
+/src
+/node_modules
+macro.py
